@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @BambangSB
 - 👀 I’m interested in coding especially android & multiplatform dev
 - 🌱 I’m currently learning dart language
-- 💞️ I’m looking to collaborate on anyone
 
 
 <!---
